@@ -1,0 +1,24 @@
+.bg-color{
+  background-color:  #f9e6e1;
+  
+}
+.text-colorr{
+  color: rgb(79, 116, 197);
+  color: linear-gradient(90deg, rgba(174,194,238,1) 0%, rgba(167,245,222,0.3253676470588235) 100%);
+
+}
+
+.logo-color{
+  color: #303179;
+  
+}
+
+.bg-color2{
+  background-color:  #FFF0EC;
+  
+}
+
+.btn1{
+  background-color: #EB7A65 !important;
+}
+
